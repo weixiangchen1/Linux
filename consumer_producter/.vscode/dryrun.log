@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/home/cwx/learn/lesson24/consumer_producter'
+g++ -o CpTest CpTest.cc -std=c++11 -lpthread
+make: Leaving directory `/home/cwx/learn/lesson24/consumer_producter'
+ 
