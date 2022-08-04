@@ -1,0 +1,6 @@
+ring_test:ring_test.cc
+	g++ -o $@ $^ -std=c++11 -lpthread
+
+.PHONY:clean
+clean:
+	rm -rf ring_test
