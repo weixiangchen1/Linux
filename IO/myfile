@@ -1,0 +1,4 @@
+call write
+call printf
+call fprintf
+call fputs
