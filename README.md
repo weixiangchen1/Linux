@@ -1,1 +1,1 @@
-# Lean for Linux, include system code and network code.
+# Learn for Linux, include system code and network code.
